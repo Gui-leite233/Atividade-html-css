@@ -1,0 +1,61 @@
+*{
+  font-family: 'Raleway', sans-serif;
+  margin-left: 10;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sinopse{
+  margin-bottom: 100px;
+}
+
+h1{
+  text-align: center;
+  font-weight: 800;
+}
+
+h2{
+  text-align: center;
+  font-size: medium;
+}
+
+#primeiro-livro, .imagem{
+  margin-left: 0;
+}
+
+body{
+  background-color: rgba(114, 122, 0, 0.295);
+}
+
+li{
+  list-style-position: center;
+  list-style-type: none;
+  text-align: center;
+}
+
+
+
+#banner {
+  color: rgb(202, 149, 2);
+  background-image: url("../img/banner.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  background-position: center;
+  filter: opacity(0.8);
+  
+}
+
+#banner h2{
+  font-size: 30px;
+}
+
+.creditos{
+  font-size: 35px;
+  text-decoration: none;
+  text-align: center;
+  color: #000000;
+}
+
+
+
